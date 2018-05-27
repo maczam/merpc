@@ -8,6 +8,6 @@
 * [第四章 序列化](di-si-zhang-xu-lie-hua.md)
 * [第五章 通讯组件](di-wu-zhang-tong-xun-zu-jian.md)
 * [第七章 spring&springboot集成](di-qi-zhang.md)
-* 第八章 负载与熔断
+* [第八章 负载与熔断](di-ba-zhang-fu-zai-yu-rong-duan.md)
 * [附录1](fu-lu-1.md)
 
